@@ -6,3 +6,5 @@ SELECT 3
 SELECT 4
 
 select 5
+
+select 6
